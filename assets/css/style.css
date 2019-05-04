@@ -264,7 +264,7 @@ nav a:hover {
 /* On screens 640px and less */
 @media screen and (max-width: 640px) {
 	.wrapper {
-		width: auto;
+		width: 640px;
 		margin: 0px;
 	}
 	header {
