@@ -218,9 +218,9 @@ nav a:hover {
 		width: -moz-available;
 		width: -webkit-fill-available;
 		width: fill-available;
-		min-width: 720px;
+		min-width: 650px;
 		margin-left: 80px;
-		margin-right: 20px;
+		margin-right: 80px;
 		margin-bottom: 30px;
 	}
 	#logo {
